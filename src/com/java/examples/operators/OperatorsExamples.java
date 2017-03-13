@@ -14,6 +14,9 @@ public class OperatorsExamples {
 		double result = (firsthDouble+secondDouble)*25;
 		int remain = (int) (result%40);
 		
+		if(remain <=20)
+			System.out.println("Total was over the limit");
+		
 		
 		
 	}
