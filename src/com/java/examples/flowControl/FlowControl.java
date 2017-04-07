@@ -17,6 +17,7 @@ public class FlowControl {
 		
 		switchExample();
 		switchMonthExample() ;
+		ifTest(3);
 	}
 
 	private static void switchExample() {
@@ -72,5 +73,14 @@ public class FlowControl {
 
 		}
 
+	}
+	
+	
+	public static void ifTest(int aNumber){
+		 if (aNumber >= 0)
+		        if (aNumber == 0)
+		            System.out.println("first string");
+		    else System.out.println("second string");
+		    System.out.println("third string");
 	}
 }

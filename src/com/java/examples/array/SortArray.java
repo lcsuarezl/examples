@@ -73,6 +73,8 @@ public class SortArray {
 		print(array);
 		System.out.println("size:" + array.length + " n:" + n);
 	}
+	
+	
 
 	private static void selectionSortDescArray(int array[]) {
 		System.out.println("Selection sort desc:");
@@ -92,6 +94,10 @@ public class SortArray {
 		System.out.println("size:" + array.length + " n:" + n);
 	}
 
+	/**
+	 * 
+	 * @param array
+	 */
 	private static void selectionSortAscArray(int array[]) {
 		System.out.println("Selection sort asc:");
 		print(array);
@@ -127,6 +133,10 @@ public class SortArray {
 		return aux;
 	}
 
+	/**
+	 * http://www.java2novice.com/java-sorting-algorithms/insertion-sort/
+	 * @param array
+	 */
 	private static void insertionSortDesc(int[] array) {
 		System.out.println("Selection sort asc:");
 		print(array);
