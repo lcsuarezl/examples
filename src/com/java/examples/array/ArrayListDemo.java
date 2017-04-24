@@ -1,5 +1,6 @@
 package com.java.examples.array;
 
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class ArrayListDemo {
@@ -70,6 +71,18 @@ public class ArrayListDemo {
 		int index = groceryList.getItemIndex(grocery);
 		groceryList.removeGrocery(index);
 		groceryList.printList();
+	}
+	
+	/**
+	 * Simulate the copy betewwn arrays
+	 * @param array
+	 */
+	private static void copyArray( ArrayList<String> array ){
+		ArrayList<String> otherList = new ArrayList<String>();
+		otherList.addAll(array);
+		
+		String[] stringArray = new String[array.size()];
+		stringArray = array.toArray(stringArray);
 	}
 
 }
