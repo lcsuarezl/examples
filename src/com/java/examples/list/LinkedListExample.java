@@ -4,6 +4,7 @@ import java.util.Iterator;
 import java.util.LinkedList;
 
 public class LinkedListExample {
+
 	
 	public static void main(String[] args) {
 		LinkedList<String> placesToVisit = new LinkedList<String>();
@@ -14,7 +15,9 @@ public class LinkedListExample {
 		placesToVisit.add("Villavicencio");
 		placesToVisit.add("Medellin");
 		
+		
 		printList(placesToVisit);
+		
 	}
 	
 	public static void printList(LinkedList<String> list){
