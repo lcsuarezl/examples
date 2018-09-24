@@ -1,6 +1,6 @@
 package java.oca;
-import EJava;
+//import EJava;
 class GuruB{
-	EJava eJava;
+	//EJava eJava;
 }
 

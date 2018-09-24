@@ -1,7 +1,7 @@
 package java.oca.associate;
-import default.*;
+//import default.*;
 class GuruD{
-	default.EJava eJava;
+	//default.EJava eJava;
 }
 
 
