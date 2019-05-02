@@ -3,7 +3,7 @@ package com.java.patterns.behavioral.observer;
 public class Demo {
 	
 	
-	public static void main(String[] args) {
+	public static void main(String[] args) throws InterruptedException {
 		
 		System.out.println("Start demo observer");
 		Dress black = new Dress(Color.BLACK, 10);
@@ -45,20 +45,32 @@ public class Demo {
 		*/
 		
 		black.setPrice(87);
+		Thread.sleep(2000);
 		green.setPrice(23);
+		Thread.sleep(2000);
 		blue.setPrice(56);
+		Thread.sleep(2000);
 		black.setPrice(8);
+		Thread.sleep(2000);
 		green.setPrice(2);
+		Thread.sleep(2000);
 		blue.setPrice(5);
+		Thread.sleep(2000);
 		black.setPrice(7);
+		Thread.sleep(2000);
 		green.setPrice(3);
+		Thread.sleep(2000);
 		blue.setPrice(6);
+		Thread.sleep(2000);
 	
 		black.removeObserver(u1);
+		Thread.sleep(2000);
 		green.removeObserver(u2);
-		
+		Thread.sleep(2000);
 		black.setPrice(44);
+		Thread.sleep(2000);
 		green.setPrice(23);
+		Thread.sleep(2000);
 		
 		System.out.println("Finish demo observer");
 		
