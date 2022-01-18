@@ -1,4 +1,4 @@
-package java.oca.associate;
+package certification.associate;
 //import default.*;
 class GuruD{
 	//default.EJava eJava;

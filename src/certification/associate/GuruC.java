@@ -1,4 +1,4 @@
-package java.oca.associate;
+package certification.associate;
 //package java.oca.*;
 //import java.default.*;
 class Guruc{

@@ -1,4 +1,4 @@
-package java.oca;
+package certification;
 //import EJava;
 class GuruB{
 	//EJava eJava;
