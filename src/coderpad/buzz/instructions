@@ -1,0 +1,14 @@
+
+
+
+Write the body of the fizzBuzz(number, map) method
+
+number is an integer and map is a non-null map
+
+The fizzBuzz method should return a string. This string is the concatenation
+of map's values associated with the keys that are divisors of the number parameter
+(in divisors ascending order)
+
+if no key in map can divide number, the method should return number as a string.
+
+Constraint: 1<= number <= 100

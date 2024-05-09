@@ -5,23 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5da9748b-95a7-4a3a-be2b-bde8279dba82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/certification/associate/a01datasamples/A1_DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/certification/associate/a01datasamples/A2_DataOverUnderFlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/certification/associate/a01datasamples/A3_Initialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/certification/associate/a02operators/A1_Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/certification/associate/a02operators/A2_RightShift.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/certification/associate/a02operators/A3_LogicalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/certification/associate/a03loops/A1_ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/certification/associate/a04methods/A1_methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/certification/associate/a04methods/A2_methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/certification/associate/a05accessmodifiers/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/certification/associate/a05accessmodifiers/package1/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/certification/associate/a05accessmodifiers/package1/ClassC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/certification/associate/a05accessmodifiers/package2/ClassB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coderpad/addition/AdditionDaughter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coderpad/addition/instructions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coderpad/buzz/Buzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coderpad/buzz/TestBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coderpad/buzz/instructions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coderpad/mix/Mixed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dikjstra/Dijkstra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dikjstra/Dijkstra1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerRank/apostrophe/Apostrophe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerRank/apostrophe/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerRank/apostrophe/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerRank/fizzbuzz/ExpectedOutput" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerRank/fizzbuzz/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerRank/rearrange/Rearrange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaExamples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaExamples.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/java/examples/array/ArrayDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/java/examples/array/ArrayDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/java/examples/dataTypes/DataTypesExamples.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/java/examples/dataTypes/DataTypesExamples.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/java/examples/operators/OperatorsExamples.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/java/examples/operators/OperatorsExamples.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/oca/GuruB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/certification/GuruB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/oca/associate/Guru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/certification/associate/Guru.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/oca/associate/GuruC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/certification/associate/GuruC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/oca/associate/GuruDE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/certification/associate/GuruDE.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,17 +72,22 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548019261987" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/coderpad/addition" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
-  <component name="RunManager" selected="Application.A3_LogicalOperators">
-    <configuration name="A1_Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="certification.associate.a02operators.A1_Operators" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/coderpad/addition" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Apostrophe">
+    <configuration name="AdditionDaughter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coderpad.addition.AdditionDaughter" />
       <module name="JavaExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="certification.associate.a02operators.*" />
+          <option name="PATTERN" value="coderpad.addition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A2_DataOverUnderFlow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="certification.associate.a01datasamples.A2_DataOverUnderFlow" />
+    <configuration name="Apostrophe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerRank.apostrophe.Apostrophe" />
       <module name="JavaExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="certification.associate.a01datasamples.*" />
+          <option name="PATTERN" value="hackerRank.apostrophe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A2_RightShift" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="certification.associate.a02operators.A2_RightShift" />
+    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerRank.fizzbuzz.FizzBuzz" />
       <module name="JavaExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="certification.associate.a02operators.*" />
+          <option name="PATTERN" value="hackerRank.fizzbuzz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A3_Initialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="certification.associate.a01datasamples.A3_Initialization" />
+    <configuration name="Rearrange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerRank.rearrange.Rearrange" />
       <module name="JavaExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="certification.associate.a01datasamples.*" />
+          <option name="PATTERN" value="hackerRank.rearrange.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A3_LogicalOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="certification.associate.a02operators.A3_LogicalOperators" />
+    <configuration name="TestBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coderpad.buzz.TestBuzz" />
       <module name="JavaExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="certification.associate.a02operators.*" />
+          <option name="PATTERN" value="coderpad.buzz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.A3_LogicalOperators" />
-        <item itemvalue="Application.A2_RightShift" />
-        <item itemvalue="Application.A1_Operators" />
-        <item itemvalue="Application.A3_Initialization" />
-        <item itemvalue="Application.A2_DataOverUnderFlow" />
+        <item itemvalue="Application.Apostrophe" />
+        <item itemvalue="Application.Rearrange" />
+        <item itemvalue="Application.AdditionDaughter" />
+        <item itemvalue="Application.TestBuzz" />
+        <item itemvalue="Application.FizzBuzz" />
       </list>
     </recent_temporary>
   </component>

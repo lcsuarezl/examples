@@ -1,0 +1,29 @@
+
+
+
+My daughter is currently learning addition at school.
+She sometimes gets things wrong when summing up two digits
+
+Given the two initial numbers and her calculated result, you have to check if it is correct
+
+>if yest, output the string "OK"
+>if no, return the digit index on where she got it wrong (converted to a string)
+Unit digit has the index "0" tens digit has the index "1" . etc
+
+She just began to learn addition, so there is no carry in any digit of all the numbers she has to sum up
+
+Al the numbers have a maximum of 5 digits, but the two initial numbers and the result may not have the same number of digits
+
+Example:
+
+The two initial values are 123 and 672. Her calculated result is 785
+
+>Unit digit check: 3 + 2 = 5. ok
+>Tens digit check: 2 + 7 = 9, but my daughter wrote 8. it's wrong
+>Hundreds digit check: 1 + 6 = 7. ok
+
+You must output "1", which is the index of the tens digit.
+
+
+
+
