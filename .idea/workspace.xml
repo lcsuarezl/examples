@@ -5,30 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5da9748b-95a7-4a3a-be2b-bde8279dba82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/certification/associate/a03loops/A1_ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/certification/associate/a04methods/A1_methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/certification/associate/a04methods/A2_methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/certification/associate/a05accessmodifiers/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/certification/associate/a05accessmodifiers/package1/ClassA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/certification/associate/a05accessmodifiers/package1/ClassC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/certification/associate/a05accessmodifiers/package2/ClassB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coderpad/addition/AdditionDaughter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coderpad/addition/instructions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coderpad/buzz/Buzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coderpad/buzz/TestBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coderpad/buzz/instructions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coderpad/mix/Mixed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dikjstra/Dijkstra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dikjstra/Dijkstra1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackerRank/apostrophe/Apostrophe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackerRank/apostrophe/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackerRank/apostrophe/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackerRank/fizzbuzz/ExpectedOutput" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackerRank/fizzbuzz/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackerRank/rearrange/Rearrange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/patterns/creational/builder/BuilderDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/patterns/creational/builder/demo2/LunchOrderBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/patterns/creational/builder/demo2/LunchOrderDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/patterns/creational/builder/demo3/LunchOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/patterns/creational/builder/demo3/LunchOrderDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/patterns/creational/prototype/AnimalCell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/patterns/creational/prototype/Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/patterns/creational/prototype/Laboratory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/patterns/creational/prototype/VegetableCell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/patterns/creational/singleton/DBSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/patterns/creational/singleton/DBSingletonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oceancode/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oceancode/Numbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/patterns/creational/DBSingleton.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +63,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548019261987" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/coderpad/addition" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Descargas/devskiller-code-YA9H-E34T-RUGQ-S1F" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -81,13 +72,13 @@
       <recent name="$PROJECT_DIR$/src/coderpad/addition" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Apostrophe">
-    <configuration name="AdditionDaughter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coderpad.addition.AdditionDaughter" />
+  <component name="RunManager" selected="Application.Numbers">
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oceancode.Hello" />
       <module name="JavaExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="coderpad.addition.*" />
+          <option name="PATTERN" value="oceancode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Apostrophe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerRank.apostrophe.Apostrophe" />
+    <configuration name="Laboratory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.patterns.creational.prototype.Laboratory" />
       <module name="JavaExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hackerRank.apostrophe.*" />
+          <option name="PATTERN" value="design.patterns.creational.prototype.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerRank.fizzbuzz.FizzBuzz" />
+    <configuration name="LunchOrderDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.patterns.creational.builder.demo3.LunchOrderDemo3" />
       <module name="JavaExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hackerRank.fizzbuzz.*" />
+          <option name="PATTERN" value="design.patterns.creational.builder.demo3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rearrange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerRank.rearrange.Rearrange" />
+    <configuration name="Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oceancode.Numbers" />
       <module name="JavaExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hackerRank.rearrange.*" />
+          <option name="PATTERN" value="oceancode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,26 +125,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coderpad.buzz.TestBuzz" />
-      <module name="JavaExamples" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="coderpad.buzz.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="[Local] oceancode.Numbers::greaterWithSameDigits" type="aws.lambda" factoryName="Local" temporary="true" nameIsGenerated="true">
+      <option name="credentialProviderId" />
+      <option name="regionId" value="us-east-1" />
+      <option name="debugHost" value="localhost" />
+      <option name="architecture" />
+      <option name="environmentVariables">
+        <map />
+      </option>
+      <option name="handler" value="oceancode.Numbers::greaterWithSameDigits" />
+      <option name="image" value="false" />
+      <option name="logicalFunctionName" />
+      <option name="memorySize" value="128" />
+      <option name="pathMappings">
+        <list />
+      </option>
+      <option name="platform" />
+      <option name="runtime" />
+      <option name="templateFile" />
+      <option name="timeout" value="300" />
+      <option name="useTemplate" value="false" />
+      <option name="input" />
+      <option name="inputIsFile" value="false" />
+      <sam>
+        <option name="additionalBuildArgs" />
+        <option name="additionalLocalArgs" />
+        <option name="buildInContainer" value="false" />
+        <option name="dockerNetwork" />
+        <option name="skipImagePull" value="false" />
+      </sam>
+      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Apostrophe" />
-        <item itemvalue="Application.Rearrange" />
-        <item itemvalue="Application.AdditionDaughter" />
-        <item itemvalue="Application.TestBuzz" />
-        <item itemvalue="Application.FizzBuzz" />
+        <item itemvalue="Application.Numbers" />
+        <item itemvalue="AWS Lambda.[Local] oceancode.Numbers::greaterWithSameDigits" />
+        <item itemvalue="Application.Hello" />
+        <item itemvalue="Application.Laboratory" />
+        <item itemvalue="Application.LunchOrderDemo3" />
       </list>
     </recent_temporary>
   </component>
@@ -178,5 +187,21 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/design/patterns/creational/prototype/VegetableCell.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/design/patterns/creational/prototype/AnimalCell.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
