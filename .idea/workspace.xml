@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5da9748b-95a7-4a3a-be2b-bde8279dba82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/design/patterns/creational/builder/BuilderDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/patterns/creational/builder/demo2/LunchOrderBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/patterns/creational/builder/demo2/LunchOrderDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/patterns/creational/builder/demo3/LunchOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/patterns/creational/builder/demo3/LunchOrderDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/patterns/creational/prototype/AnimalCell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/patterns/creational/prototype/Cell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/patterns/creational/prototype/Laboratory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/patterns/creational/prototype/VegetableCell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/patterns/creational/singleton/DBSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/patterns/creational/singleton/DBSingletonDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oceancode/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oceancode/Numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/design/patterns/creational/DBSingleton.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/observer/Obserbable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +33,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="2266" />
     <option name="width" value="1910" />
@@ -57,16 +46,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548019261987" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Descargas/devskiller-code-YA9H-E34T-RUGQ-S1F" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/git/github/examples"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/coderpad/addition" />
@@ -159,7 +146,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Numbers" />
-        <item itemvalue="AWS Lambda.[Local] oceancode.Numbers::greaterWithSameDigits" />
         <item itemvalue="Application.Hello" />
         <item itemvalue="Application.Laboratory" />
         <item itemvalue="Application.LunchOrderDemo3" />
