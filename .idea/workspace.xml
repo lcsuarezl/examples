@@ -5,17 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5da9748b-95a7-4a3a-be2b-bde8279dba82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/observer/MessageStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/observer/ObserversDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/observer/PhoneClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/observer/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/observer/TabletClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/chainofresponsibility/CEOHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/chainofresponsibility/ChainOfResponsibility.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/chainofresponsibility/ChainOfResponsibilityDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/chainofresponsibility/DirectorHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/chainofresponsibility/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/chainofresponsibility/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/chainofresponsibility/RequestType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/chainofresponsibility/VPHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/observer/MessageStream_structure.puml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/java/examples/array/ArrayDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/java/examples/array/ArrayDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/java/examples/dataTypes/DataTypesExamples.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/java/examples/dataTypes/DataTypesExamples.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/java/examples/operators/OperatorsExamples.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/java/examples/operators/OperatorsExamples.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/design/patterns/behavioral/observer/Obserbable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/observer/Observer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -58,6 +58,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ChainOfResponsibilityDemo.executor": "Run",
     "Application.ObserversDemo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -66,15 +67,31 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/coderpad/addition" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="design.patterns.behavioral.chainofresponsibility" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.ObserversDemo">
+  <component name="RunManager" selected="Application.ChainOfResponsibilityDemo">
+    <configuration name="ChainOfResponsibilityDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.patterns.behavioral.chainofresponsibility.ChainOfResponsibilityDemo" />
+      <module name="JavaExamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="design.patterns.behavioral.chainofresponsibility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oceancode.Hello" />
       <module name="JavaExamples" />
@@ -94,19 +111,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="design.patterns.creational.prototype.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LunchOrderDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design.patterns.creational.builder.demo3.LunchOrderDemo3" />
-      <module name="JavaExamples" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="design.patterns.creational.builder.demo3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChainOfResponsibilityDemo" />
         <item itemvalue="Application.ObserversDemo" />
         <item itemvalue="Application.Numbers" />
         <item itemvalue="Application.Hello" />
         <item itemvalue="Application.Laboratory" />
-        <item itemvalue="Application.LunchOrderDemo3" />
       </list>
     </recent_temporary>
   </component>
@@ -184,6 +188,16 @@
           <url>file://$PROJECT_DIR$/src/design/patterns/creational/prototype/AnimalCell.java</url>
           <line>11</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/design/patterns/behavioral/chainofresponsibility/ChainOfResponsibilityDemo.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/design/patterns/behavioral/chainofresponsibility/ChainOfResponsibilityDemo.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
