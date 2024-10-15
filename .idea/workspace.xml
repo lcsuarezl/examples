@@ -5,16 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5da9748b-95a7-4a3a-be2b-bde8279dba82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/chainofresponsibility/CEOHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/chainofresponsibility/ChainOfResponsibility.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/chainofresponsibility/ChainOfResponsibilityDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/chainofresponsibility/DirectorHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/chainofresponsibility/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/chainofresponsibility/Request.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/chainofresponsibility/RequestType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/chainofresponsibility/VPHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/observer/MessageStream_structure.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/patterns/StudyGuide.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/command/AllLightsCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/command/AllLightsOffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/command/AllLightsOnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/command/Command.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/command/CommandDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/command/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/command/OffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/command/OnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/command/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/command/ToggleCommand.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/patterns/behavioral/chainofresponsibility/ChainOfResponsibility.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/patterns/behavioral/chainofresponsibility/ChainOfResponsibility.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +64,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ChainOfResponsibilityDemo.executor": "Run",
+    "Application.CommandDemo.executor": "Run",
     "Application.ObserversDemo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -67,18 +73,22 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="design.patterns.behavioral.command" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/coderpad/addition" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="design.patterns.behavioral.command" />
       <recent name="design.patterns.behavioral.chainofresponsibility" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ChainOfResponsibilityDemo">
+  <component name="RunManager" selected="Application.CommandDemo">
     <configuration name="ChainOfResponsibilityDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="design.patterns.behavioral.chainofresponsibility.ChainOfResponsibilityDemo" />
       <module name="JavaExamples" />
@@ -92,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oceancode.Hello" />
+    <configuration name="CommandDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.patterns.behavioral.command.CommandDemo" />
       <module name="JavaExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oceancode.*" />
+          <option name="PATTERN" value="design.patterns.behavioral.command.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Laboratory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design.patterns.creational.prototype.Laboratory" />
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oceancode.Hello" />
       <module name="JavaExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="design.patterns.creational.prototype.*" />
+          <option name="PATTERN" value="oceancode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CommandDemo" />
         <item itemvalue="Application.ChainOfResponsibilityDemo" />
         <item itemvalue="Application.ObserversDemo" />
         <item itemvalue="Application.Numbers" />
         <item itemvalue="Application.Hello" />
-        <item itemvalue="Application.Laboratory" />
       </list>
     </recent_temporary>
   </component>
